@@ -1,6 +1,8 @@
 # Getting Started Crypto App Test Million
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+<img width="361" alt="Screenshot 2025-02-10 at 12 08 22 AM" src="https://github.com/user-attachments/assets/0d0fe73c-beb0-485b-bfad-477e2c828a4a" />
+<img width="365" alt="Screenshot 2025-02-10 at 12 08 37 AM" src="https://github.com/user-attachments/assets/f1c31d0a-8b74-4088-ac5b-d64a4afce607" />
 
 ## Step 1: Start Metro
 
